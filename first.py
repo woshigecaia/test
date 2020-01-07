@@ -1,2 +1,8 @@
-print('this is first python file!!!')
-print('lalalalallalalaalall')
+def tyf():
+    print 'ssssss'
+
+def oo():
+    print 'sssscd'
+
+def ii():
+    raise Exception('wodetian')
